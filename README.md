@@ -16,5 +16,5 @@ This project is an **Enterprise-Grade API Automation Framework** built with **Po
 - **Negative Testing:** Handling failed scenarios and error codes.
 - <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2e9eb551-ed1e-4c40-b604-74e6ce72c2b9" />
 
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/d80026e6-3aab-4f8e-adec-39ad945d030b" />
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/9d1dff38-3c00-48b2-8889-5ed70590ea8f" />
 
