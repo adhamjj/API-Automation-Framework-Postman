@@ -15,5 +15,3 @@ This project is an **Enterprise-Grade API Automation Framework** built with **Po
 - **Schema Validation:** Ensuring response data types are correct.
 - **Negative Testing:** Handling failed scenarios and error codes.
 
-## 📊 Results
-*(Here, you can upload and link your green Runner screenshot)*
